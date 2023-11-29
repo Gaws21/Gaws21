@@ -1,6 +1,7 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
-  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Welcome+my+GitHub;Gawan+Augusto;Data+Engineer+and+Backend+Developer+:%29)](https://git.io/typing-svg)
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=cdcfbe&height=120&section=header"/>
+
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=25de04&size=35&center=true&vCenter=true&width=1000&lines=Welcome+my+GitHub;Gawan+Augusto;Data+Engineer+and+Backend+Developer+&#9996;)](https://git.io/typing-svg)
 
 ## My Skills
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)&nbsp;
@@ -12,7 +13,7 @@
 ![Postgres](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
 
-<img src="https://github.com/Gaws21/Gaws21/blob/fd73fa2b6e0cdee7c2858aea37d545005988658f/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+<img src="https://github.com/Gaws21/Gaws21/blob/45f3a272a04909020af7cd13b1bc1ce7bc028e88/github_wallpaper.jpg" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 #### Studying in this moment:
 
